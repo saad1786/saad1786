@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad Sheikh</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-- 👀 Interested in:
+- <h3 align="left">Interested in:</h3>
 > 1. DevOps
 > 2. Cloud Computing   
 
